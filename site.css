@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+body {
+    background-color: #EBE5C5;
+}
+
+
+h1 {
+    font-family: 'PT Sans Narrow';
+    color: white;
+    text-shadow: 1px 1px 4px black;
+}
+
+
+@font-face {
+    font-family: 'android';
+    src: url('Modelo do site/fontes/idroid.otf');
+}
+
+
+header {
+    background-image: linear-gradient(to bottom, #37c878, #258350, #103621);
+    padding: 8px; 
+    margin: -8px;
+    box-shadow: 1px 1px 4px black; 
+     
+}
+
+header > p {
+    font-size: 19px;
+    text-shadow: 1px 1px 2px black;
+}
+
+.centralizar {
+    
+    text-align: center;
+    color: white;
+    font-family: 'PT Sans Narrow';
+    
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    margin: 9px;
+    font-family: 'PT Sans Narrow';
+    font-weight: bold;
+}
+
+nav > a:hover {
+    /* text-decoration: underline; */
+    /* text-decoration:double; */
+    color: #103621;
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 4px;
+    transition-duration: .5s;
+    
+}
+
+section {
+    min-width: auto;
+    max-width: 1050px;
+    background-color: white;
+    margin: auto;
+    margin-top: 8.4px;
+    padding: 10px;
+    box-shadow: 1px 2px 3px black;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+}
+
+article > h2 {
+    font-family: 'android';
+    color: #1A5C37;
+}
+
+article > p {
+    font-family: 'PT Sans Narrow';
+    text-align:justify;
+    font-size: 19px;
+    text-indent: 30px;
+}
+
+p > a {
+    text-decoration: none;
+    background-color: #37c878a4;
+    color: #154229;
+    font-weight: bold;
+    padding: 1px;
+
+}
+
+p> a:hover {
+    text-decoration: underline;
+    color: #1f663f;
+}
+
+picture > p {
+    font-family: 'PT Sans Narrow';
+    font-size: 19px;
+    text-indent: 30px;
+}
+
+picture > img { /*Centralizando a imagem do bugdroid*/
+    display: block;
+    margin: 0 auto;
+}
+
+/* O display: block; define a imagem como um elemento de bloco, permitindo que a margem seja aplicada corretamente. Já o margin: 0 auto; define uma margem de 0 no topo e na base, e uma margem automática nos lados esquerdo e direito, o que centraliza a imagem horizontalmente na página. */
+
+
+h2.degrade {
+    font-family: 'android';
+    color: #1A5C37;
+    background-image: linear-gradient(to right, rgb(136, 204, 136),rgba(106, 192, 106, 0.479), rgba(0, 128, 100, 0));
+    padding-left: 7px;
+
+}
+
+article#ajustarvideo {
+    background-color: #103621;
+    padding: 53px;
+    
+}
+
+article > iframe { /*Centralizar o conteúdo do video*/
+    display: block;
+    margin: 0 auto;
+       
+}
+
+h3.curiosidade {
+    font: arial;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #1A5C37;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    margin: 0px;
+
+}
+
+article#caixa {
+    background-image: linear-gradient(to bottom, #83E1AD 100%, #103621); /*O ponto de transição de cor é definido com 100%*/
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.568);
+
+    
+}
+
+p.ajustartxt {
+    text-align: justify;
+    padding: 12px;
+
+}
+
+ul {
+    font-family: 'PT Sans Narrow';
+    display: block;
+    font-size: 19px;
+    margin-right: 30px;
+    columns: 2; /*Para fazer uma lista com duas colunas*/
+    
+}
+
+p.ajustar {
+    text-align: justify;
+    padding: 12px;
+    margin-top: -20px;
+}
+
+p#ultimoparagrafo {
+    text-align: justify;
+    font-family: 'PT Sans Narrow';
+    font-size: 19px;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: #103621;
+    height: auto;
+    text-align: center;
+    color: white;
+    font-family: 'PT Sans Narrow';
+    padding: 1px; 
+    margin: -8px;
+    
+}
