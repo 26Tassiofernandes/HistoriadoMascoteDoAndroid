@@ -7,7 +7,7 @@
 
 ### Link do site 🔗 
 
-<a href="" target="_blank" rel="external">História do Mascote do Android</a>
+<a href="https://26tassiofernandes.github.io/HistoriadoMascoteDoAndroid/site.html" target="_blank" rel="external">História do Mascote do Android</a>
 
 </div>
 
