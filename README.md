@@ -16,17 +16,32 @@
 ##
 
 ### 📜 Descrição 
-<p>Um pequeno site responsivo de curiosidade contando a história do mascote do android, nele é reforçado 
-os principais conceitos de HTML e CSS, incluindo aplicações de multimídia como vídeos e imagens, links externos, âncoras,
-semântica, estilização de fontes, listas, estilos etc.
 
-</p>
-
-
-### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+Um pequeno site de curiosidades que conta a história do mascote do Android.
 
 ##
 
-### 👀 Observação
-<p> As fontes usadas na imagem foram baixadas em sites de terceiros, portanto, podem não funcionar em alguns navegadores.</p>
+### 📚 Tecnologias tratadas nesse projeto
+
+- HTML
+- CSS
+
+##
+
+### ⚙ Requisitos
+
+- Ter um navegador da Web Moderno instalado em sua máquina.
+
+##
+
+### ⚒️ Como rodar?
+
+O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+
+##
+
+### ✏️ Licença
+
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
+
+##
