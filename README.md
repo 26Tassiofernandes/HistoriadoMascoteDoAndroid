@@ -36,7 +36,7 @@ Um pequeno site de curiosidades que conta a história do mascote do Android.
 
 ### ⚒️ Como rodar?
 
-O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+O usuário apenas precisa acessar o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
 
 ##
 
